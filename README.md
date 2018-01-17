@@ -1,12 +1,12 @@
-## Welcome to GitHub Pages
 
-You can use the [editor on GitHub](https://github.com/amun-software/amun-software-/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
+## SPHINX
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+*SHINX* ist eine, auf der Microservice Architektur basierende, Anwendung, mit welcher Sentinel 2 - Aufnahmen im Browser gesucht und analysiert werden können.
 
-### Markdown
+Dieses Dokument beschreibt die Architektur des Gesamtsystems, sowie die unterstützten Funktionalitäten. 
+### Architektur
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+![Architekturt](./Architektur.png "Logo Title Text 1")
 
 ```markdown
 Syntax highlighted code block
