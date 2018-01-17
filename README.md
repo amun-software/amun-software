@@ -5,33 +5,18 @@
 
 Dieses Dokument beschreibt die Architektur des Gesamtsystems, sowie die unterstützten Funktionalitäten. 
 ### Architektur
+SPHINX ist eine Komposition aus 4 Servern. 3 Server (Discovery, Processing und SPHINX-Frontend) sind Eigenentwicklungen. OpenCPU ist ein Dienst Dritter. 
+![Architekturt](./Architektur.png)
 
-![Architekturt](./Architektur.png "Logo Title Text 1")
+#### Die Komponenten
+Im Folgenden werden die selber entwicklenten Komponenten kurz vorgestellt. 
+Eine aussührliche Beschreibung, sowie die jeweiligen Installationsanleitungen der Dienste, können den Service-spezifischen Dokumentationen zu entnehmen.
+##### Discovery
+Dieser Dienst dient der Bereitstellung von Metadaten und Tiles zuSentinel 2 - Aufnahmen.
+Eine detaillierte Dokumentation des Servers kann unter der folgenden URL eingesehen werden:
+(https://amun-software.github.io/Geosoft2DiscoveryService/)[https://amun-software.github.io/Geosoft2DiscoveryService/]
 
-```markdown
-Syntax highlighted code block
+#### Processing
 
-# Header 1
-## Header 2
-### Header 3
 
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/amun-software/amun-software-/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+#### SHINX-Frontend
