@@ -14,7 +14,7 @@ Eine aussührliche Beschreibung, sowie die jeweiligen Installationsanleitungen d
 ##### Discovery
 Dieser Dienst dient der Bereitstellung von Metadaten und Tiles zuSentinel 2 - Aufnahmen.
 Eine detaillierte Dokumentation des Servers kann unter der folgenden URL eingesehen werden:
-(https://amun-software.github.io/Geosoft2DiscoveryService/)[https://amun-software.github.io/Geosoft2DiscoveryService/]
+[https://amun-software.github.io/Geosoft2DiscoveryService/](https://amun-software.github.io/Geosoft2DiscoveryService/)
 
 #### Processing
 
