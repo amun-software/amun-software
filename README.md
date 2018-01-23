@@ -27,6 +27,8 @@ Eine detaillierte Dokumentation des Servers kann unter der folgenden URL eingese
 [https://amun-software.github.io/Geosoft2DiscoveryService/](https://amun-software.github.io/Geosoft2DiscoveryService/)
 
 #### Processing
+Processing bearbeitet die geforderten Bilddaten und stellt diese zur Verfügung. Eine detaillierte Dokumentation des Servers kann unter der folgenden URL eingesehen werden: [https://amun-software.github.io/Geosoft2ProcessingService/](https://amun-software.github.io/Geosoft2ProcessingService/)
+Die Bilddaten werden beim Discovery angefordert, über OpenCPU mit R bearbeitet. Die Anfrage ist über einen TMS realisiert und kann so im Frontend eingebunden werden.
 
 
 #### SHINX-Frontend
