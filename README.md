@@ -32,4 +32,6 @@ Die Bilddaten werden beim Discovery angefordert und über OpenCPU mit R bearbeit
 
 
 ##### SHINX-Frontend
-Das Frontend ist eine als Single-Page-Application realisierte Webanwendung. Sie fragt für Metadaten den Discovery-Service an und stellt dessen Rohdaten dar. Für komplexere Anfragen wird der Processing-Service angefragt. Die Ergebnisse werden jeweils als TMS in Leaflet eingeladen.
+Das Frontend ist eine als Single-Page-Application realisierte Webanwendung. Sie fragt für Metadaten den Discovery-Service an und stellt dessen Rohdaten dar. Für komplexere Anfragen wird der Processing-Service angefragt. Die Ergebnisse werden jeweils als TMS in Leaflet eingeladen.[https://github.com/amun-software/sphinx-frontend/](https://github.com/amun-software/sphinx-frontend/)
+
+
